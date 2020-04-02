@@ -1,1 +1,2 @@
-Rühmaga koostatud rakendus, kus on liides, selle tööd kontrollivad testid, realiseeriv klass ning liidesele vastavat klassi kasutav näitprogramm. 
+Tööjaotus oli 50-50
+Jagasime tööd enam-vähem võrdselt pooleks ning parandasime ja muutsime üksteise koodi jooksvalt. 
