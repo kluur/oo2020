@@ -160,7 +160,7 @@ public static void main(String[] args) {
             }
         }
         if(playerPositions1.size() + playerPositions2.size() == 9){
-            return "Neither of you won suckers."; 
+            return "Neither of you won, suckers."; 
         }
         return"";
     }
